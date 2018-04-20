@@ -1922,6 +1922,17 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-kv-stade.de/
 ---
+
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Uelzen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-uelzen.de/
+---
+
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
@@ -2201,3 +2212,4 @@ city: Wolfenbüttel
 urls:
   - type: WEBSITE
     url: http://www.gruene-wolfenbuettel.de/
+
